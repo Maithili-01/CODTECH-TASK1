@@ -12,3 +12,10 @@ Key Activities
 
 Technology used
 Pyhon:A high-level, interpreted programming language known for its readability and simplicity. The program is written entirely in Python.
+Output
+![Screenshot (5)](https://github.com/user-attachments/assets/be068e70-2df3-4c1d-bd46-64cfcf097002)
+![Screenshot (4)](https://github.com/user-attachments/assets/b3c94c02-9751-41c0-8c13-4fe19b08ead6)
+![Screenshot (3)](https://github.com/user-attachments/assets/4cf3077a-5b5b-441e-84c1-831970559dc7)
+
+
+
